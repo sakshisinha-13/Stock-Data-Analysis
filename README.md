@@ -1,7 +1,7 @@
 # Stock-Performance-Analysis
 
 ## Overview
-This project analyzes the stock performance of **INFY (Infosys Ltd.)** using historical stock data. The analysis includes calculating key financial metrics, identifying trends, and providing actionable insights into the stock's volatility and performance.
+This project analyzes the stock performance of **INFY** using historical stock data. The analysis includes calculating key financial metrics, identifying trends, and providing actionable insights into the stock's volatility and performance.
 
 ## Features
 - **Financial Metrics**:
@@ -30,7 +30,6 @@ This project analyzes the stock performance of **INFY (Infosys Ltd.)** using his
   - Open, High, Low, Close prices
   - Adjusted Close price
   - Volume of stocks traded
-- **Source**: [Insert data source URL or note if it's a custom dataset]
 
 ## Insights
 1. **Bullish Trends**: Periods where the 50-day moving average crossed above the 200-day moving average, indicating potential buy signals.
@@ -43,4 +42,4 @@ This project analyzes the stock performance of **INFY (Infosys Ltd.)** using his
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/sakshisinha-13/Stock-Performance-Analysis.git
